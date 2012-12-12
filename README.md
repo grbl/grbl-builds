@@ -1,2 +1,1 @@
-grbl-builds
-===========
+This Grbl repository stores old and current pre-compiled firmwares for users. Please download the firmware directly from the links on our [main Grbl repository](http://github.com/grbl/grbl/). These links track the download stats and help us track usage. Thanks!
